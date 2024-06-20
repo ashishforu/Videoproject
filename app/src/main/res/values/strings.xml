@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseProjectApp</string>
+
+    <style name="DialogTheme" parent="@style/ThemeOverlay.AppCompat.Dialog">
+        <item name="colorAccent">@color/endcolorgradient</item>
+
+    </style>
+</resources>

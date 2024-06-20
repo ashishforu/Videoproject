@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659039888093",
+    "project_id": "fir-work-dc96c",
+    "storage_bucket": "fir-work-dc96c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659039888093:android:4a56ddf3ecdb61ea70b134",
+        "android_client_info": {
+          "package_name": "com.example.firebaseprojectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659039888093-ilat0qp152piro5d976pp4mtqfebn8l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM-lxZLbOnDYKOPhIPwyS0NRWEH2RkqjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659039888093-ilat0qp152piro5d976pp4mtqfebn8l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
